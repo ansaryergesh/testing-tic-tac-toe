@@ -1,4 +1,4 @@
-require_relative '../bin/main.rb'
+require_relative '../bin/main_method.rb'
 
 describe '#valid_name' do
   let(:name) { 'Ansar' }
